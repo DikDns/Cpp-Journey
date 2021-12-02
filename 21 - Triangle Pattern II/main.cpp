@@ -49,7 +49,34 @@ int main(){
 
     cout << "\n\n========|         |========\n\n";
 
+    // Pola Ketupat I
+    for(int i = 1; i <= n; i++){
+        // Looping untuk spasi dengan j = input user; batas nya i
+        for (int j = n; j > i; j--){
+            cout << " ";
+        }
 
+        // Looping untuk * dengan batas pola bilangan ganjil
+        for (int j = 1; j <= (2*i - 1); j++){
+            cout << "*";
+        }
+
+        cout << "\n";
+    }
+    
+    for(int i = 1; i <= n; i++){
+        // Looping untuk spasi dengan j = input user; batas nya i
+        for (int j = 1; j < i; j++){
+            cout << " ";
+        }
+
+        // Looping untuk * dengan batas pola bilangan ganjil
+        for (int j = n; j >= (2*i - n); j--){
+            cout << "*";
+        }
+
+        cout << "\n";
+    }
 
     cout << "\n\n========|   END   |========\n\n";
     cin.get();
