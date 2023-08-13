@@ -1,0 +1,10 @@
+Ini adalah file external
+Ini adalah baris keduanya!
+
+Data
+No 	Nama
+1  	Andy
+2	Beny
+3	Cerry
+4	Deny
+5	Erica
