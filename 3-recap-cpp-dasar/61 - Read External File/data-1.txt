@@ -1,0 +1,10 @@
+DATA-1 ini adalah file eksternal
+dan ini adalah baris keduanya!
+
+data
+No      Nama
+01      DikDns
+02      Doobwuz
+03      Aidenzzy
+04      Zerropps
+05      Raiden

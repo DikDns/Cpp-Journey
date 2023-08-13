@@ -1,4 +1,0 @@
-1;2021101;Andika Eka Kurnia;XII MIPA 4;Anggota;Lulus;
-2;2022901;Ahmad Refi Widi Katibin;XII MIPA 5;Wakil Ketua;Lulus;
-3;2002001;Dicky Nugraha;XII IPS 2;Anggota;Aktif;
-4;2012001;Dicky;X IPS 2;Anggota;Aktif;
